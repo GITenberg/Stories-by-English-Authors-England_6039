@@ -1,0 +1,70 @@
+_repo: Stories-by-English-Authors-England_6039
+contributor:
+  contributors:
+  - agent_name: Edwards, Amelia Ann Blanford
+    aliases:
+    - Edwards, Amelia Blanford
+    - Edwards, Amelia B. (Amelia Blanford)
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '2716'
+    url: http://www.gutenberg.org/2009/agents/2716
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edwards
+  - agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+  - agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+  - agent_name: Robinson, F. W. (Frederick William)
+    aliases:
+    - Robinson, Frederick William
+    - Robinson, Frederick W. (Frederick William)
+    birthdate: 1830
+    deathdate: 1901
+    gutenberg_agent_id: '4738'
+    url: http://www.gutenberg.org/2009/agents/4738
+  - agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+  - agent_name: Lewis, Angelo
+    gutenberg_agent_id: '4739'
+    url: http://www.gutenberg.org/2009/agents/4739
+  - agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: The box tunnel / Charles Reade -- Minions of the moon / F. W. Robinson
+  -- The four-fifteen express / Amelia B. Edwards -- The wrong black bag / Angelo
+  Lewis -- The three strangers / Thomas Hardy -- Mr. Lismore and the widow / Wilkie
+  Collins -- The philosopher in the apple orchard / Anthony Hope.
+title: 'Stories by English Authors: England'
+url: http://www.gutenberg.org/ebooks/6039
