@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors-England_6039
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Edwards, Amelia Ann Blanford
@@ -48,7 +48,12 @@ contributor:
     gutenberg_agent_id: '98'
     url: http://www.gutenberg.org/2009/agents/98
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6039#Stories-by-English-Authors-England
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
