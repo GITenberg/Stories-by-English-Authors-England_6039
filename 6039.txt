@@ -184,7 +184,7 @@ you, my dear lady.
 
 _Miss Haythorn._ Nonsense!
 
-_Dolignan._ Pweep! (Grave reader, do not put our lips to the
+_Dolignan._ Pweep! (Grave reader, do not put your lips to the
 next pretty creature you meet, or will understand what this means.)
 
 _Miss Haythorn._ Ee! Ee!
@@ -468,7 +468,7 @@ So Sophie and her bustling mother were of material assistance
 to Mrs. Pemberthy; and the presence of Sophie in that house of
 mourning--where the mourning had been speedily got over and business
 had begun again with commendable celerity--was a considerable source
-of comfort to young Reuben, when he had leisure after business hours
+of comfort to young Reuben, when he had leisure after business hours,
 which was not always the case, to resume those tender relations
 which had borne to him last autumn such happy fruit of promise.
 
@@ -728,7 +728,7 @@ of the stables and corn-bins."
 which, in true housewifely fashion, hung from her girdle. "The farm
 servants are away in the village, or they should help you, sir."
 
-"We are in the habit of helping ourselves-very much," said one of
+"We are in the habit of helping ourselves--very much," said one of
 the highwaymen, drily. "Pray don't apologise on that score, mistress."
 
 Two of the men departed; five of them stalked into the farm parlour,
@@ -927,7 +927,7 @@ But they had forgotten everything, and did not heed him. They were
 drinking strong waters, and were heedless of the hour and the risks
 they ran by a protracted stay there. In ten minutes from that time
 Saturnalia had set in, and pandemonium seemed to have unloosed
-its choicest specimens They sang, they danced, they raved, they
+its choicest specimens. They sang, they danced, they raved, they
 blasphemed, they crowed like cocks, they fired pistols at the
 chimney ornaments, they chased the maidservants from one room
 to another, they whirled round the room with Mrs. Tarne and Mrs.
@@ -1027,7 +1027,7 @@ have stolen a march upon me this time; but I've got home, you see,
 in time to welcome you to Maythorpe and share in your festivity. I'm
 a Pemberthy, and not likely to cry over spilled milk. More liquor
 for the gentlemen, you wenches, and be quick with it. Captain, here's
-to you and your companions, and next time you catch a Pemberthy.
+to you and your companions, and next time you catch a Pemberthy,
 thy, treat him more gently in return for a welcome here. More
 liquor, girls; the gentlemen are thirsty after their long ride."
 
@@ -1283,7 +1283,7 @@ I have profited thereby."
 "Indeed!" says the farmer's widow, for the want of a better answer
 at the moment.
 
-"I am a younger son; but all my brothers have been away by wars
+"I am a younger son; but all my brothers have been swept away by wars
 or pestilence, and I am "sent" for in hot haste--I, who had shaken
 the dust of England from my feet for fifteen years."
 
@@ -1378,7 +1378,7 @@ home after my first northward journey since the war, was well
 pleased with the prospect of spending the month of December under
 the hospitable and thoroughly English roof of my excellent friend,
 Jonathan Jelf, Esq., of Dumbleton Manor, Clayborough, East Anglia.
-Travelling in the interests of the wellknown firm in which it
+Travelling in the interests of the well-known firm in which it
 is my lot to be a junior partner, I had been called upon to visit
 not only the capitals of Russia and Poland, but had found it also
 necessary to pass some weeks among the trading ports of the Baltic;
@@ -1568,7 +1568,7 @@ if possible, before Christmas."
 "Nothing more?"
 
 Mr. Dwerrihouse smiled grimly. "Well," he said, "you may tell my
-cousin that she need not burn the hall down in my honour _time_,
+cousin that she need not burn the hall down in my honour _this time_,
 and that I shall be obliged if she will order the blue-room chimney
 to be swept before I arrive."
 
@@ -1971,7 +1971,7 @@ alighted at Blackwater station."
 known or where he would run so great a risk. It would be just
 running his head into the lion's mouth; he would have been mad to
 come nigh Blackwater station; and if he had come he would have been
-en arrested before he left the platform."
+arrested before he left the platform."
 
 "Can you tell me who took the Blackwater tickets of that train?"
 
@@ -2082,7 +2082,7 @@ Beg pardon, sir; my time's up."
 
 And with this the ruddy guard touched his cap and was gone. In
 another minute the heavy panting of the engine began afresh, and
-the "train" glided slowly out of the station.
+the train glided slowly out of the station.
 
 We looked at each other for some moments in silence. I was the
 first to speak.
@@ -2642,7 +2642,7 @@ that took away his appetite for a week afterward.
 
 The prohibition of smoking Quelch did not much mind; for, having
 in his salad days made trial of a cheap cigar, the result somehow
-satisfies him that tobacco was not in his line, and he ceased to
+satisfied him that tobacco was not in his line, and he ceased to
 yearn for it accordingly. But the tall hat and the black necktie
 were constant sources of irritation. He had an idea, based on his
 having once won a drawing prize at school, that nature had intended
@@ -3656,7 +3656,7 @@ his bass voice as before:
 All this time the third stranger had been standing in the doorway.
 Finding now that he did not come forward or go on speaking, the
 guests particularly regarded him. They noticed, to their surprise,
-that he stood before them the picture of abject terror-his knees
+that he stood before them the picture of abject terror--his knees
 trembling, his hand shaking so violently that the door-latch, by
 which he supported himself, rattled audibly; his white lips were
 parted, and his eyes fixed on the merry officer of justice in the
@@ -3829,7 +3829,7 @@ the matter."
 "True, true. Well, my way is to Casterbridge, and't is as much as
 my legs will do to take me that far. Going the same way?"
 
-"No, I am sorry to' say. I have to get home over there" (he nodded
+"No, I am sorry to say. I have to get home over there," (he nodded
 indefinitely to the right), "and I feel as you do--that it is quite
 enough for my legs to do before bedtime."
 

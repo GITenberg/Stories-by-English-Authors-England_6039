@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors-England_6039
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributors:
   - agent_name: Edwards, Amelia Ann Blanford
@@ -68,6 +68,7 @@ subjects:
 - !lcsh 'English fiction -- 19th century'
 - !lcsh 'England -- Fiction'
 - !lcsh 'Short stories, English'
+- GITenberg
 tableOfContents: The box tunnel / Charles Reade -- Minions of the moon / F. W. Robinson
   -- The four-fifteen express / Amelia B. Edwards -- The wrong black bag / Angelo
   Lewis -- The three strangers / Thomas Hardy -- Mr. Lismore and the widow / Wilkie
